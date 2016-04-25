@@ -3,6 +3,5 @@ app/design/frontend/base/default/layout/bubble/autocomplete.xml             app/
 app/design/frontend/base/default/template/bubble/autocomplete/js.phtml      app/design/frontend/base/default/template/bubble/autocomplete/js.phtml
 app/etc/modules/Bubble_Autocomplete.xml                                     app/etc/modules/Bubble_Autocomplete.xml
 skin/frontend/base/default/css/bubble/autocomplete.css                      skin/frontend/base/default/css/bubble/autocomplete.css
-skin/frontend/base/default/js/lib/*                                         skin/frontend/base/default/js/lib
 skin/frontend/base/default/js/typeahead.bundle.js                           skin/frontend/base/default/js/typeahead.bundle.js
 skin/frontend/rwd/default/css/bubble/autocomplete.css                       skin/frontend/rwd/default/css/bubble/autocomplete.css
